@@ -1,11 +1,11 @@
 # MachEightCodingChallenge
 This is my solution for Mach Eight's Coding Challenge
 
-To execute this application you must have python 3.7.x and install the dependencies in the file requirements.txt
+To execute this application you must have python 3.7.x and install the dependencies in the requirements.txt file
 
 <code>pip install -r requirements.txt</code>
 
-The file main.py contains the main function of the app, so you only need to execute that file to start the application.
+The main.py file contains the main function of the app, so you only need to execute that file to start the application.
 
 <code>python main.py</code>
 
