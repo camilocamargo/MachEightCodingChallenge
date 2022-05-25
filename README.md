@@ -11,5 +11,5 @@ The main.py file contains the main function of the app, so you only need to exec
 
 The application will show you the instructions.
 
-Besides, in the project folder you could see a folder call test, it contains the unit test for Client and Matcher class.
+Besides, in the project folder you could see a folder called test, it contains the unit test for Client and Matcher class.
 You should use an IDE like PyCharm to run those tests.
